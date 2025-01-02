@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles: failure to properly install dependencies. The original Dockerfile (`Dockerfile`) attempts to install Python and required packages, but may fail due to missing dependencies or issues with the installation process.  The corrected Dockerfile (`Dockerfile.fixed`) provides a solution.
